@@ -66,6 +66,7 @@ edit the router.get();
 router.get('/', function(req, res, next){
   res.render('index', {title: 'Firebase Express'});
 });
+```
 
 >Edit the title on HTML
 
