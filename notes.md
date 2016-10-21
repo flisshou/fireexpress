@@ -56,7 +56,7 @@ var api = require('./routes/api');
 app.use('/api/v1', api);
 ```
 
->Connect the route 
+>Connect the route
 
 ###Go to index.js
 
@@ -139,4 +139,4 @@ Create a new json file to add some objects.
 
 Click on `Send`.
 
-Check the Server running condition. 
+Check the Server running condition.
